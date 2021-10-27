@@ -1,9 +1,9 @@
 **TIME STAMPER APPLICATION**
 
-##Requirements:
+## Requirements:
 OPERATING SYSTEM : Windows 7/8/10
 
-##Features:
+## Features:
 1. Automatic Date Stamper
 2. Custom Date Stamper
 3. Two Additional Fields Provided to Stamp
